@@ -1,4 +1,4 @@
-pertama
+pembelajaran
 belajar pertama menggunakan github
 belar javascript
 bajar php
